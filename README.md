@@ -1,9 +1,9 @@
 
+<h1 align="center">Hi 👋, I'm Vanshika Singh</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vanshika+Singh;Full+Stack+Developer+💻;Java+Developer+☕;MERN+Stack+Enthusiast+🌐;GSSoC+2026+Contributor+🌱;DSA+Problem+Solver+🚀" alt="Typing SVG" />
-</h1>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+SRM+IST+🎓;Full+Stack+Developer+💻;Java+%26+DSA+Enthusiast+☕;MERN+Stack+Developer+🌐;GSSoC+2026+Open+Source+Contributor+🌱;Building+Projects+and+Learning+Every+Day+🚀" alt="Typing SVG" />
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VanshikaSingh28&label=Profile+Views&color=7c3aed&style=flat-square" />
   <img src="https://img.shields.io/badge/CGPA-9.32%2F10-06b6d4?style=flat-square" />
