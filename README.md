@@ -1,9 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vanshika+Singh;Welcome+to+My+GitHub+Profile+✨;Vanshika+Singh+🚀;Aspiring+Software+Engineer+💻" alt="Name" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Vanshika Singh</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+SRM+IST+🎓;Full+Stack+Developer+💻;Java+%26+DSA+Enthusiast+☕;MERN+Stack+Developer+🌐;GSSoC+2026+Open+Source+Contributor+🌱;Building+Projects+and+Learning+Every+Day+🚀" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=850&lines=Computer+Science+Student+🎓;Full+Stack+Developer+💻;Java+Developer+☕;MERN+Stack+Enthusiast+🌐;Open+Source+Contributor+🌱+GSSoC+2026;DSA+Problem+Solver+🚀;Building+Projects+and+Learning+Every+Day+✨" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VanshikaSingh28&label=Profile+Views&color=7c3aed&style=flat-square" />
   <img src="https://img.shields.io/badge/CGPA-9.32%2F10-06b6d4?style=flat-square" />
@@ -102,15 +103,25 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-AI%20Foundations%20Associate%202025-f59e0b?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Java%20%7C%20Elite%20%2B%20Gold%20Medal-f43f5e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL-DBMS%20Certified-3b82f6?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSSoC%202026-Open%20Source%20Contributor-10b981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-9.32%2F10-06b6d4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SRM%20IST-B.Tech%20CSE-f59e0b?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-9.32%2F10-06b6d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SRM%20IST-B.Tech%20CSE-7c3aed?style=for-the-badge"/>
+</p>
 
 ## 📫 Connect With Me
 
