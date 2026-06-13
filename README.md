@@ -126,8 +126,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vanshika11">
+  <a href="https://www.linkedin.com/in/vanshika11/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:vanshikasingh5944@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/VanshikaSingh28">
@@ -138,7 +142,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=GSSoC+2026+Contributor+🌱;Open+to+Learning+and+Collaboration+🚀;Always+Building+Something+New+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=750&lines=GSSoC+2026+Contributor+🌱;Open+to+Learning+and+Collaboration+🚀;Always+Building+Something+New+✨;Thanks+for+Visiting+My+Profile+" />
 </p>
-
 
