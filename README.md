@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Java%20%7C%20Elite%20%2B%20Gold%20Medal-f43f5e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL-Java%20%7C%20Elite%20%2B%20Silver%20Medal-c0c0c0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NPTEL-DBMS%20Certified-3b82f6?style=for-the-badge"/>
 </p>
 
@@ -122,6 +122,8 @@
   <img src="https://img.shields.io/badge/CGPA-9.32%2F10-06b6d4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SRM%20IST-B.Tech%20CSE-7c3aed?style=for-the-badge"/>
 </p>
+
+---
 
 ## 📫 Connect With Me
 
