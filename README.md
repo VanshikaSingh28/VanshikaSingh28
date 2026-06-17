@@ -18,7 +18,7 @@
 
 🎓 **B.Tech Computer Science** @ SRM Institute of Science and Technology
 
-📊 **CGPA:** 9.32 / 10
+📊 **CGPA:** 9.49 / 10
 
 🎯 **Expected Graduation:** 2028
 
