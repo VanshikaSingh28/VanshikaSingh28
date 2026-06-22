@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VanshikaSingh28&label=Profile+Views&color=7c3aed&style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-9.49%2F10-06b6d4?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-9.41%2F10-06b6d4?style=flat-square" />
   <img src="https://img.shields.io/badge/SRM%20IST-B.Tech%20CSE-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-f59e0b?style=flat-square" />
 </p>
@@ -18,7 +18,7 @@
 
 🎓 **B.Tech Computer Science** @ SRM Institute of Science and Technology
 
-📊 **CGPA:** 9.49 / 10
+📊 **CGPA:** 9.41 / 10
 
 🎯 **Expected Graduation:** 2028
 
@@ -119,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.49%2F10-06b6d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-9.41%2F10-06b6d4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SRM%20IST-B.Tech%20CSE-7c3aed?style=for-the-badge"/>
 </p>
 
