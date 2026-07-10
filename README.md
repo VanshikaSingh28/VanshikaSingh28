@@ -80,20 +80,28 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshikaSingh28&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaSingh28&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed" height="180"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanshikaSingh28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanshikaSingh28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VanshikaSingh28&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4" />
+  <img
+    src="https://streak-stats.demolab.com?user=VanshikaSingh28&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
