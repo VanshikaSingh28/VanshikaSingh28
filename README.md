@@ -83,24 +83,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanshikaSingh28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanshikaSingh28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="170"
-    alt="Top Languages"
-  />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanshikaSingh28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanshikaSingh28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=VanshikaSingh28&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img width="750" src="https://streak-stats.demolab.com?user=VanshikaSingh28&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
